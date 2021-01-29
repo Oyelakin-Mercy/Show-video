@@ -1,2 +1,2 @@
-# Show video box
+# Show and hide video in JavaScript
 Event handlers
